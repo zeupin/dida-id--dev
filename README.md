@@ -1,6 +1,6 @@
-# Dida\ID 组件
+# Dida\ID 组件库
 
-`Dida\ID` 是一个ID生成器，可以生成常用一些id。它是 [宙品科技](http://zeupin.com) 开源的 [Dida框架](http://dida.zeupin.com) 的一个功能组件。
+`Dida\ID` 是一个ID生成器，可以生成常用一些id。它是 [宙品科技](http://zeupin.com) 开源的 [Dida框架](http://dida.zeupin.com) 的一个功能组件库。
 
 wiki <https://github.com/zeupin/dida-id/wiki>
 
